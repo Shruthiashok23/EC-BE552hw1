@@ -1,0 +1,6 @@
+,totalImperfection,ruleSpaceID,goodDesignsElim,impact,totalPerfection,numIncorrect,poorDesignsElim,totalDesignsElim,poorPerfection,poornessPercent,numCorrect,goodPerfection,goodnessPercent,poorEliminationPercent
+hw1_rules_Verification,True,hw1_rules_Verification,3996,0,False,3996,3996,7992,False,0,3996,False,0,50
+hw1_rules_1_Rule_N_v1,True,hw1_rules_1_Rule_N_v1,3996,0,False,3996,3996,7992,False,0,3996,False,0,50
+hw1_rules_2_Rule_N_v1,True,hw1_rules_2_Rule_N_v1,3996,0,False,3996,3996,7992,False,0,3996,False,0,50
+hw1_rules_1_Rule_N,True,hw1_rules_1_Rule_N,3996,0,False,3996,3996,7992,False,0,3996,False,0,50
+hw1_rules_2_Rule_N,True,hw1_rules_2_Rule_N,3996,0,False,3996,3996,7992,False,0,3996,False,0,50
